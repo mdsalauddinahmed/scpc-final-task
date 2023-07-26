@@ -9,5 +9,5 @@ function findSecondSmallest(arr) {
   }
    
   const secondSmallestNumber = findSecondSmallest([5, 2, 8, 1, 6, 3]);
-  console.log("Second Smallest Number:", secondSmallestNumber);
+  console.log(secondSmallestNumber);
  
